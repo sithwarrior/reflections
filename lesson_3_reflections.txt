@@ -1,2 +1,6 @@
 When would you want to use a remote repository rather than keeping all your work local?
-  for collaborating, or using multiple computers
+	for collaborating, or using multiple computers
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	forks is for seperating projects, into new hands or new purpose. branches is for new features in same project
