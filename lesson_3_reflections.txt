@@ -4,3 +4,7 @@ When would you want to use a remote repository rather than keeping all your work
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 	forks is for seperating projects, into new hands or new purpose. branches is for new features in same project
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	diffing
